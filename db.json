@@ -1,0 +1,70 @@
+{
+  "post": [
+    {
+      "id": 2,
+      "Username": "maithreyee",
+      "email": "maithreyeeg.it2020@citchennai.net",
+      "mobile": ""
+    },
+    {
+      "id": 3,
+      "Username": "gunasri",
+      "email": "gunasrij.it2020@citchennai.net",
+      "mobile": "6381771601"
+    }
+  ],
+  "RegisteredUsers": [
+    {
+      "Username": "",
+      "email": "prithinka",
+      "password": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "Username": "",
+      "email": "gunasrijayakumar@gmail.com",
+      "password": "guna123",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "Username": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "Username": "",
+      "email": "",
+      "password": "guna123",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "Username": "",
+      "email": "gunasrijayakumar@gmail.com",
+      "password": "guna123",
+      "mobile": "",
+      "id": 5
+    },
+    {
+      "Username": "",
+      "email": "",
+      "password": "guna123",
+      "mobile": "",
+      "id": 6
+    },
+    {
+      "Username": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
